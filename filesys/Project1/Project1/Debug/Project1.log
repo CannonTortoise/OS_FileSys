@@ -1,0 +1,5 @@
+﻿  dir.cpp
+c:\users\hasee\desktop\操作系统\文件管理\filesys\project1\project1\dir.cpp(99): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  c:\users\hasee\desktop\操作系统\文件管理\filesys\project1\project1\dir.cpp(99): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\hasee\desktop\操作系统\文件管理\filesys\project1\project1\dir.cpp(99): note: 缺失的可变参数 1 为格式字符串“%s”所需
+  Project1.vcxproj -> C:\Users\hasee\Desktop\操作系统\文件管理\filesys\Project1\Debug\Project1.exe
